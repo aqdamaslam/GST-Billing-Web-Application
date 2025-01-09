@@ -1,6 +1,7 @@
-# GST-Billing-Web-Application
+# GST-Billing-Web-Application Documentation
 
-We develop a fully functional web based GST billing application for our company Hira Coal Mines Pvt Ltd. for internal use purpose with lots of features.
+## Overview
+GST-Billing-Web-Application is a web-based solution developed to help users calculate Goods and Services Tax (GST) on products and services, generate invoices, and manage billing information. This application is developed using PHP, HTML, JavaScript, and CSS, providing users with a seamless interface for invoicing and tax calculations.
 This application is based on Php and it was hosted on AWS cloud
 
 ## Features of this application
@@ -16,3 +17,40 @@ This application is based on Php and it was hosted on AWS cloud
 ### 3 - MySql
 ### 4 - Route 53
 ### 5 - DNS Mapping etc.
+
+
+### Key Features:
+1. **GST Calculation**: 
+   - Automatically calculates GST based on different tax rates for various products and services.
+   
+2. **Invoice Generation**:
+   - Generates invoices that include a detailed breakdown of product/service cost, GST applied, and total amount.
+   - Allows users to print or export invoices as PDFs.
+
+3. **Product Management**:
+   - Users can add, update, or remove products/services from their inventory.
+   - Each product/service can be assigned an appropriate GST rate.
+
+4. **User Authentication**:
+   - Registration and login functionality for secure access to the application.
+   - Users can manage their profiles and billing information.
+
+5. **Responsive Interface**:
+   - The user interface is designed to be responsive across different devices (desktop, tablet, mobile).
+   - Intuitive design for ease of use.
+
+6. **Dynamic Tax Calculation**:
+   - The system dynamically calculates GST based on user input (quantity, price, and GST rate).
+
+---
+
+## System Requirements
+- Web Server (Apache/Nginx)
+- PHP version 7.4 or higher
+- MySQL Database
+- Web Browser (Chrome, Firefox, Edge, Safari)
+
+---
+
+
+
