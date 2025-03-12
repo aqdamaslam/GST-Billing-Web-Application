@@ -18,7 +18,7 @@ This application is based on Php and it was hosted on AWS cloud
 ### 4 - Route 53
 ### 5 - DNS Mapping etc.
 
-
+ 
 ### Key Features:
 1. **GST Calculation**: 
    - Automatically calculates GST based on different tax rates for various products and services.
